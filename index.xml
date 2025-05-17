@@ -2,22 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Clovis &amp; Evangeline -- Blog</title>
-    <link>https://R0g3rXYZ.github.io/Blog/</link>
+    <link>https://r0g3rxyz.github.io/Blog/</link>
     <description>Recent content on Clovis &amp; Evangeline -- Blog</description>
     <image>
       <title>Clovis &amp; Evangeline -- Blog</title>
-      <url>https://R0g3rXYZ.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://R0g3rXYZ.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://r0g3rxyz.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://r0g3rxyz.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://R0g3rXYZ.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 May 2025 17:41:24 -0600</lastBuildDate>
+    <atom:link href="https://r0g3rxyz.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://r0g3rxyz.github.io/Blog/about/</link>
+      <pubDate>Sat, 17 May 2025 17:41:24 -0600</pubDate>
+      <guid>https://r0g3rxyz.github.io/Blog/about/</guid>
+      <description>&lt;p&gt;We are Clovis and Evangeline. This blog is to post all of our projects, photos, and other random progress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skateboarding Photos</title>
+      <link>https://r0g3rxyz.github.io/Blog/posts/skateboarding-photos/</link>
+      <pubDate>Sat, 17 May 2025 17:29:42 -0600</pubDate>
+      <guid>https://r0g3rxyz.github.io/Blog/posts/skateboarding-photos/</guid>
+      <description>&lt;p&gt;Some photos from skating:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;-&#34; loading=&#34;lazy&#34; src=&#34;https://r0g3rxyz.github.io/Blog/images/skate1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://r0g3rxyz.github.io/Blog/images/skate2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://r0g3rxyz.github.io/Blog/images/skate3.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My 1st post</title>
-      <link>https://R0g3rXYZ.github.io/Blog/firstpost/</link>
+      <link>https://r0g3rxyz.github.io/Blog/firstpost/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://R0g3rXYZ.github.io/Blog/firstpost/</guid>
+      <guid>https://r0g3rxyz.github.io/Blog/firstpost/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
