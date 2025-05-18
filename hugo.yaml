@@ -25,9 +25,10 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  customCSS: ["css/custom.css"]
   homeInfoParams:
     Title: "Welcome to Our Blog"
-    Content: "Photos, skateboarding, cybersecurity, and more"
+    Content: "Photos, skateboarding, gardening, cybersecurity, and small daily thoughts"
   mainSections:
     - posts 
 
