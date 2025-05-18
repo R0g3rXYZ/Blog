@@ -1,12 +1,14 @@
-baseURL: https://example.org/
+baseURL: https://r0g3rxyz.github.io/Blog/
 languageCode: en-us
 title: Clovis & Evangeline -- Blog
-theme: ["PaperMod"]
+theme: PaperMod
+draft: false
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+canonifyURLs: true
 
 minify:
   disableXML: true
@@ -14,12 +16,32 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Clovis & Evangeline
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: ["Clovis", "Evangeline"]
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  homeInfoParams:
+    Title: "Welcome to Our Blog"
+    Content: "Photos, skateboarding, cybersecurity, and more"
+  mainSections:
+    - posts 
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /Blog/about/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /Blog/categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /Blog/tags/
+      weight: 30
