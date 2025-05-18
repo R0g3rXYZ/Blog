@@ -8,7 +8,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-canonifyURLs: true
+canonifyURLs: false
 
 minify:
   disableXML: true
