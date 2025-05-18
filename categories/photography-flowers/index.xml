@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photography, Flowers on Clovis &amp; Evangeline -- Blog</title>
     <link>https://r0g3rxyz.github.io/Blog/categories/photography-flowers/</link>
     <description>Recent content in Photography, Flowers on Clovis &amp; Evangeline -- Blog</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Clovis &amp; Evangeline -- Blog</title>
+      <url>https://r0g3rxyz.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://r0g3rxyz.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://r0g3rxyz.github.io/Blog/categories/photography-flowers/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,10 @@
       <link>https://r0g3rxyz.github.io/Blog/posts/prettyflowers/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>https://r0g3rxyz.github.io/Blog/posts/prettyflowers/</guid>
-      <description>&lt;p&gt;Here are some photos I took on a walk with Clovis :)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://r0g3rxyz.github.io/Blog/images/flower1.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://r0g3rxyz.github.io/Blog/images/flower2.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;https://r0g3rxyz.github.io/Blog/images/flower3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Here are some photos I took on a walk with Clovis :)&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://r0g3rxyz.github.io/Blog/images/flower1.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://r0g3rxyz.github.io/Blog/images/flower2.jpg&#34;&gt;
+&lt;img loading=&#34;lazy&#34; src=&#34;https://r0g3rxyz.github.io/Blog/images/flower3.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
