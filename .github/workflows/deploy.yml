@@ -32,6 +32,11 @@ jobs:
         run: hugo --config hugo.yaml -D
       - name: List Generated Files
         run: ls -R ./public
+      - name: Verify Theme Files Exist
+        run: ls -R ./themes/PaperMod
+      - name: Hugo Environment Info
+        run: hugo env
+
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
