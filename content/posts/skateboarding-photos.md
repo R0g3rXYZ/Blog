@@ -8,6 +8,6 @@ draft: false
 
 Some photos from skating:
 
-![](/images/skate1.jpg)
-![](/images/skate2.jpg)
-![](/images/skate3.jpg)
+![](/Blog/images/skate1.jpg)
+![](/Blog/images/skate2.jpg)
+![](/Blog/images/skate3.jpg)

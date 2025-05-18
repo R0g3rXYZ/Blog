@@ -35,13 +35,13 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /Blog/about/
+      url: /about/
       weight: 10
     - identifier: categories
       name: Categories
-      url: /Blog/categories/
+      url: /categories/
       weight: 20
     - identifier: tags
       name: Tags
-      url: /Blog/tags/
+      url: /tags/
       weight: 30

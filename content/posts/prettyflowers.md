@@ -8,6 +8,6 @@ tags: ["Evangeline"]
 
 Here are some photos I took on a walk with Clovis :)
 
-![](/images/flower1.jpg)
-![](/images/flower2.jpg)
-![](/images/flower3.jpg)
+![](/Blog/images/flower1.jpg)
+![](/Blog/images/flower2.jpg)
+![](/Blog/images/flower3.jpg)

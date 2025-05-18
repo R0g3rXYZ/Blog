@@ -11,7 +11,7 @@ We didn't take a lot of photos, but we skated for ~1 hour.
 
 {{< rawhtml >}}
 <video width="640" height="360" controls>
-  <source src="/images/skate2.mp4">
+  <source src="Blog/images/skate2.mp4">
 </video>
 {{< /rawhtml >}}
 
