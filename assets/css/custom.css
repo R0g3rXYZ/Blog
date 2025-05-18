@@ -1,14 +1,14 @@
 /* Custom Dark Grey-Green Theme */
 body {
-  background-color: #1e2b27;
-  color: #d8e3e0;
+  background-color: #1e2b27 !important; 
+  color: #d8e3e0 !important;
 }
 
 a {
-  color: #89b99b;
+  color: #89b99b !important;
 }
 
 a:hover {
-  color: #a2ccb8;
+  color: #a2ccb8 !important;
 }
 
