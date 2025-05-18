@@ -11,8 +11,7 @@ We didn't take a lot of photos, but we skated for ~1 hour.
 
 {{< rawhtml >}}
 <video width="640" height="360" controls>
-  <source src="/Blog/videos/skate2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="/images/skate2.mp4" type="video/mp4">
 </video>
 {{< /rawhtml >}}
 
