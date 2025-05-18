@@ -18,11 +18,13 @@
       <link>https://r0g3rxyz.github.io/Blog/posts/skate2/</link>
       <pubDate>Sun, 18 May 2025 12:29:42 -0600</pubDate>
       <guid>https://r0g3rxyz.github.io/Blog/posts/skate2/</guid>
-      <description>&lt;p&gt;We didn&amp;rsquo;t take a lot of photos, but we skated for ~1 hour.
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-Your browser does not support the video tag.
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;We didn&amp;rsquo;t take a lot of photos, but we skated for ~1 hour.&lt;/p&gt;
+
+&lt;video width=&#34;640&#34; height=&#34;360&#34; controls&gt;
+  &lt;source src=&#34;https://r0g3rxyz.github.io/Blog/videos/skate2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  Your browser does not support the video tag.
+&lt;/video&gt;
+
 &lt;p&gt;We ended our skating session after I fell and got scraped up really bad on my left arm after testing how fast I can go down a wheelchair ramp..
 Gonna have to go on a two day skating hiatus so I can heal :(&lt;/p&gt;</description>
     </item>
