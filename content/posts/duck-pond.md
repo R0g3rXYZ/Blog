@@ -5,7 +5,7 @@ title: 'Duck Pond'
 ---
 Pictures from the duck pond.
 
-![](/Blog/images/duck1.jpg)
-![](/Blog/images/duck2.jpg)
-![](/Blog/images/duck3.jpg)
-![](/Blog/images/duck4.jpg)
+![](/images/duck1.jpg)
+![](/images/duck2.jpg)
+![](/images/duck3.jpg)
+![](/images/duck4.jpg)

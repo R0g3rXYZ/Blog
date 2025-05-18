@@ -8,7 +8,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-canonifyURLs: false
+canonifyURLs: true
 
 minify:
   disableXML: true
@@ -35,13 +35,13 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /about/
+      url: https://r0g3rxyz.github.io/Blog/about/
       weight: 10
     - identifier: categories
       name: Categories
-      url: /categories/
+      url: https://r0g3rxyz.github.io/Blog/categories/
       weight: 20
     - identifier: tags
       name: Tags
-      url: /tags/
+      url: https://r0g3rxyz.github.io/Blog/tags/
       weight: 30
