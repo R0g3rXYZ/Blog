@@ -29,7 +29,9 @@ jobs:
           hugo version
 
       - name: Build Site
-        run: hugo --config hugo.yaml -D
+        run: hugo --config hugo.yaml
+      - name: List Generated Files
+        run: ls -R ./public
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
