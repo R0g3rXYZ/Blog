@@ -1,5 +1,5 @@
 ---
-date: '2025-05-28T16:29:42-06:00'
+date: '2025-05-28T13:29:42-06:00'
 categories: ["Skateboarding"]
 tags: ["clovis"]
 author: "Clovis"
