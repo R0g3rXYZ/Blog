@@ -2,6 +2,7 @@
 date: '2025-05-19T17:29:42-06:00'
 categories: ["Skateboarding"]
 tags: ["clovis"]
+author: "Clovis"
 title: 'Skateboarding 3'
 draft: false
 ---
