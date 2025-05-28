@@ -2,6 +2,7 @@
 title: "Pretty Flowers"
 date: 2025-05-17
 draft: false
+author: "Evangeline"
 categories: ["Photography", "Flowers"]
 tags: ["Evangeline"]
 ---

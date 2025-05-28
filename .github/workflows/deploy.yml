@@ -30,7 +30,7 @@ jobs:
           hugo version
 
       - name: Build Site
-        run: hugo --config hugo.yaml -D
+        run: hugo --config hugo.yaml
       - name: List Generated Files
         run: ls -R ./public
       - name: Verify Theme Files Exist
